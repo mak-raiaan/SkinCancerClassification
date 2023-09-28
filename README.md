@@ -26,7 +26,7 @@ This project uses the following dataset for Skin Cancer Images:
 
 You can find the implementation of SkinNet-8 in the following file:
 
-- [RetNet-10 Model.py](Model/SkinNet-8%Skin%Cancer%Classification.ipynb)
+- [SkinNet-8 Skin Cancer Classification.ipynb](Model/SkinNet-8%20Skin%20Cancer%20Classification.ipynb)
 
 ## Paper Framework
 
